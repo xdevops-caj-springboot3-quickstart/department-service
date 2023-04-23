@@ -122,7 +122,7 @@ Use Lombok to simplify the Java bean and Logger codes.
 Use HTTPie for API testing.
 
 
-### Add a customer
+### Add a department
 
 Request:
 ```bash
@@ -138,7 +138,7 @@ Response:
 }
 ```
 
-Add another customer.
+Add another department.
 
 Request:
 ```bash
@@ -155,7 +155,7 @@ Response:
 ```
 
 
-### Find a customer by id
+### Find a department by id
 
 Request:
 ```bash
@@ -171,7 +171,7 @@ Response:
 }
 ```
 
-### Find all customers
+### Find all departments
 
 Request:
 ```bash
